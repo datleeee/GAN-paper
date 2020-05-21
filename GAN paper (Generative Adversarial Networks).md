@@ -17,6 +17,7 @@ Examples:
 ![](https://i1.wp.com/nttuan8.com/wp-content/uploads/2019/11/1-1.png?resize=768%2C510&ssl=1)
 
 Real money = real data 
+
 Fake money = data generated from Generator
 
 Training process of GAN:
